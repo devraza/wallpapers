@@ -4,4 +4,3 @@ They're either form the [catppuccin wallpaper repository](https://github.com/cat
 
 ### A taster of how they look
 ![Screenshot](https://github.com/devraza/dotfiles/blob/main/screenshots/screenshot.png)
-![Alternate Screenshot](https://github.com/devraza/dotfiles/blob/main/screenshots/screenshot-alt.png)
